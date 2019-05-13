@@ -4,8 +4,8 @@ Snake. In Bash.
 
 How to play
 ---------------
-i=up, j=left, k=down, l=right
-q=quit
+i=up, j=left, k=down, l=right  
+q=quit  
 This game is borderless, which means once you get to an edge, the snake warps to the other side of the field. Also, like regular snake, once you bite yourself, you die.
 
 How it works
